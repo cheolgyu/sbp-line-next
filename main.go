@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/cheolgyu/stock-write-common/db"
-	"github.com/cheolgyu/stock-write-common/logging"
+	"github.com/cheolgyu/sbm-base/db"
+	"github.com/cheolgyu/sbm-base/logging"
 )
 
 func main() {
