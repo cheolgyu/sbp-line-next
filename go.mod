@@ -1,4 +1,4 @@
-module github.com/cheolgyu/sbp-line-next
+module github.com/cheolgyu/line
 
 go 1.16
 
